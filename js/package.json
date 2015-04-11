@@ -1,0 +1,22 @@
+{
+  "name": "CrackingCode",
+  "version": "1.0.0",
+  "description": "Some attempts at cracking the code interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rcocetta/crackingcode.git"
+  },
+  "dependencies": {
+    "mocha": "*"
+  },
+  "author": "Riccardo Cocetta <info@riccardococetta.co.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcocetta/crackingcode/issues"
+  },
+  "homepage": "https://github.com/rcocetta/crackingcode"
+}

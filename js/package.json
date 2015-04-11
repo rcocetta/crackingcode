@@ -4,7 +4,7 @@
   "description": "Some attempts at cracking the code interview",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test*"
+    "test": "./node_modules/mocha/bin/mocha test*"
   },
   "repository": {
     "type": "git",
